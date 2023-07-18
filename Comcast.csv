@@ -1,4 +1,4 @@
-Ticket#,CustomerComplaint,Date,Time,Received Via,City,State,Zip code,Status,Filing on Behalf of Someone
+Ticket,CustomerComplaint,Date,Time,Received Via,City,State,Zip code,Status,Filing on Behalf of Someone
 250635,Comcast Cable Internet Speeds,22-04-2015,3:53:50 PM,Customer Care Call,Abingdon,Maryland,21009,Closed,No
 223441,Payment disappear - service got disconnected,04-08-2015,10:22:56 AM,Internet,Acworth,Georgia,30102,Closed,No
 242732,Speed and Service,18-04-2015,9:55:47 AM,Internet,Acworth,Georgia,30101,Closed,Yes
